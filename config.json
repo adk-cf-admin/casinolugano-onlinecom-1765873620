@@ -1,0 +1,205 @@
+{
+    "de-CH": {
+        "styles": {
+            "bg": "#0A0A0A",
+            "lang-select-color": "#222829",
+            "bg-light": "#d6d7dc",
+            "welcome-bonus-bg": "#FFFFFF",
+            "top-games-hover-fg": "#0d0d0d",
+            "main-bg": "#f4f7fa",
+            "text": "#222829",
+            "text-black": "#222829",
+            "table-head": "#B63132",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#B63132",
+            "yellow": "#d4b440",
+            "yellow-button": "#B63132",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#FFFFFF",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#B63132",
+            "faq-label": "#FFFFFF",
+            "bg-footer": "#0A0A0A",
+            "copyright": "#e7e7d5",
+            "starColor": "#d4b440",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Casinò Lugano",
+            "title": "Casinò Lugano: Slots, Roulette & Blackjack | Swiss4Win, Elementi",
+            "description": "Casinò Lugano: Slots, Roulette, Blackjack, Turniere und Abend‑Shows. Swiss4Win fürs Online‑Spiel, Restaurant Elementi, Bars & Terrasse, Valet‑Parking und verantwortungsvolles Spielen.",
+            "canonical": "casinolugano-online.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1033",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "casinolugano-online.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1026",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1027"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1030",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Casinò Lugano Logo"
+        },
+        "nav": {
+            "signUp": "Registrieren",
+            "playNow": "Jetzt spielen"
+        },
+        "hero": {
+            "title": "Casinò Lugano – Spielen, Genuss & Nightlife am See",
+            "textDesktop": "Exklusives Willkommensangebot von",
+            "textMobile": "Exklusives Willkommensangebot von",
+            "playGame": "Spiel starten",
+            "claimBonus": "Bonus sichern",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1034",
+            "imageSizeModifier": 5,
+            "imageYModifier": -3,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1035",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 1,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Bonus sichern",
+            "title": "Top-Casino",
+            "allCasino": "Alle Casino",
+            "welcomeBonusText": "Willkommensbonus"
+        },
+        "bonusDetails": {
+            "title": "Bonusdetails",
+            "getBonusButtonText": "Bonus erhalten",
+            "maximumAmountText": "Maximalbetrag",
+            "wagerText": "Umsatz",
+            "bonusCodeText": "Boni",
+            "casino": "Casino",
+            "bonuses": "Bewertung",
+            "rate": "Rate",
+            "freeSpins": "Freispiele",
+            "moreInfo": "Mehr Infos",
+            "get": "Erhalten",
+            "refresh": "Aktualisieren"
+        },
+        "advantages": {
+            "title": "Vorteile",
+            "advantagesBeforeText": "Das Casinò Lugano liegt direkt am Seeufer und verbindet den grössten Slot‑Park der Schweiz mit starken Tischspielen und stilvollem Ambiente.",
+            "items": [
+                "Der grösste Slot‑Park in der Schweiz",
+                "Roulette, Blackjack und Baccarat täglich ab 14:00",
+                "Ultimate Texas Hold’em und Chemin de Fer",
+                "Spiel mit CHF‑ oder EUR‑Jetons möglich",
+                "Panoramaterrasse und elegante Bars am See",
+                "Elementi Restaurant: täglich abends, erstklassiger Service",
+                "Swiss4Win: lizenzierte Online‑Plattform mit Sofortauszahlung in Schweiz"
+            ],
+            "advantagesAfterText": "Gäste geniessen Bars, Panoramaterrasse und das Elementi Restaurant; online ergänzt Swiss4Win das Angebot mit Schweizer Lizenz und Sofortauszahlung. Ideal für einen Abend am See – mit Spiel in CHF oder EUR.",
+            "knowMore": "Mehr erfahren",
+            "appTitle": "Casinò Lugano App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1036",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Casinò Lugano App",
+            "mobileGooglePlayImageTitle": "Casinò Lugano App",
+            "mobileIosImageTitle": "Casinò Lugano App"
+        },
+        "games": {
+            "playNowText": "Jetzt spielen",
+            "title": "Beliebte Spiele",
+            "allGames": "Alle Spiele"
+        },
+        "about": {
+            "history": {
+                "title": "Über Casinò Lugano",
+                "description1": "",
+                "items": [
+                    "Bonus bis CHF 2’000.",
+                    "Jackpot CHF 1’029’850.",
+                    "Grosse Gewinne CHF 22’560."
+                ],
+                "description2": "Das Casinò Lugano liegt direkt am Seeufer mit Blick auf den Parco Ciani.\nEs verbindet stilvolles Ambiente, klare Wegeführung und aufmerksamen Service.\nGäste finden vielfältige Tischspiele wie Roulette, Blackjack, Baccarat und Poker‑Varianten.\nDie Slot‑Bereiche bieten eine breite Auswahl von klassischen und modernen Automaten.\nEin ausgewiesener Raucherbereich gehört zum Angebot.\nMehrere Bars und eine Terrasse laden zum Aperitif am Wasser ein.\n",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1037",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "Im Elementi Restaurant gibt es abends Fine Dining mit kreativer Küche.\nFür Online‑Spieler steht Swiss4Win als lizenzierte Schweizer Plattform mit verantwortungsvollem Spiel bereit.\nDie Lage nahe der Altstadt macht die Anreise zu Fuss oder per Bus besonders einfach.\nEintritt für Erwachsene, gepflegte Kleidung und Fokus auf sicheres Vergnügen."
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Casinò Lugano: Stil, Öffnungszeiten und Erlebnisse am See",
+                "description": "<p>\nDas Casinò Lugano inszeniert seinen Auftritt direkt am Seeufer mit Blick auf den Parco Ciani: zeitgemässes Interieur, gedimmtes Licht, mehrere Bars und eine grosszügige Terrasse schaffen eine entspannte, elegante Stimmung, in der Spiel und Dolce Vita harmonisch zusammengehen.\n<\/p>\n<br>\n<p>\nDie Öffnungszeiten sind auf den Abend ausgerichtet: Der Spielsaal bleibt täglich bis spät geöffnet, die Tische starten am Nachmittag; Eintritt erhalten ausschliesslich Erwachsene gegen gültigen Ausweis, der Dresscode ist gepflegt, jedoch ohne Krawatten‑ oder Sakko‑Pflicht. So bleibt der Ablauf planbar und die Atmosphäre stilvoll und unaufgeregt.\n<\/p>\n<br>\n<p>\nKulinarisch wartet im 1. Stock das Elementi mit abendlichem Fine Dining, während auf den Etagen Bars klassische Drinks und regionale Weine servieren; besonders beliebt ist die Terrasse am Wasser für den Aperitif zwischen zwei Spielsessions. Diese Mischung aus Küche und Lounge unterstreicht den Feriencharakter des Hauses.\n<\/p>\n<br>\n<p>\nDie Lage macht die Anreise simpel: wenige Gehminuten ins Zentrum und zur Seepromenade, kurze Verbindung zum Bahnhof Lugano sowie zu den wichtigsten Stadtadressen; entsprechend sind zahlreiche Hotels im mittleren bis Premium‑Segment bequem zu Fuss oder per Bus erreichbar. Das reduziert den Reiseaufwand und passt zu einem dichten Tagesprogramm.\n<\/p>\n<br>\n<p>\nIm Event‑Kalender finden sich regelmässig Poker‑Nights, Specials und thematische Abende; Startzeiten der Tische, Aktionen und Highlights lassen sich auf der offiziellen Website tagesaktuell prüfen. So erhält der Casinobesuch einen Event‑Charakter und liefert gute Gründe für den nächsten Abend am See.\n<\/p>\n<br>\n<p>\nFür Vorteile und Treuepunkte sorgt Swiss4Win als lizenzierte Online‑Erweiterung mit Loyalty‑Programm, täglichen Promotions und komfortabler Mobile‑Experience; vor Ort ergänzen Jackpots und Angebote das Bild. Die Kombination aus On‑ und Offline macht das Erlebnis flexibel: vor Ort spielen, zuhause fortsetzen und Benefits innerhalb eines Ökosystems mitnehmen.\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nCasinò Lugano: Sprachen, Zahlungen, Bancomaten und Währungswechsel\n<\/h3>\n\n<p>\nIm Casinò Lugano ist Italienisch die Arbeitssprache – das Haus liegt im Kanton Tessin, wo Italienisch die einzige Amtssprache ist; zugleich ist Lugano eine internationale, mehrsprachige Stadt, in der Gäste häufig auch auf Englisch bedient werden und Deutsch im Alltag präsent ist. Das spiegelt sich in der Kommunikation des Hauses und in den mehrsprachigen Online‑Inhalten, wodurch Anliegen der Besucher effizient gelöst werden.\n<\/p>\n<br>\n<p>\nAm Tisch wird mit Jetons in CHF oder EUR gespielt; diese Zweitwährungs‑Option ist auf der offiziellen Seite zum Tischspielangebot beschrieben und in Schweizer Casino‑Guides bestätigt. Für Reisende und Gäste aus dem nahen Italien ist das besonders praktisch, da Einsätze und Auszahlungen in einer der beiden Währungen abgewickelt werden können.\n<\/p>\n<br>\n<p>\nFür Bargeld und Wechsel ist die Infrastruktur problemlos: Im Pokerbereich des Casinos sind Check‑Cashing und Currency Exchange ausgewiesen, und wenige Minuten entfernt – im SBB Travel Centre am Bahnhof Lugano – wird täglich Währungstausch angeboten. Zusätzlich gibt es in der Innenstadt mehrere Wechselstuben (z. B. Ria Money Transfer, Cambio Parini, Mondial Change), sodass Bezüge und Konversionen schnell erledigt sind.\n<\/p>\n<br>\n<p>\nWer online spielt oder digital einzahlt, nutzt Swiss4Win (die offizielle Plattform des Casinò Lugano) mit gängigen Zahlungsmitteln wie TWINT, PostFinance, Visa, Mastercard, Apple Pay, Paysafecard, Skrill sowie Banküberweisung; die Plattform ist in der Schweiz lizenziert (ESBK) und implementiert Responsible‑Gaming‑Tools. So entsteht ein nahtloses On‑\/Offline‑Erlebnis mit vertrauten Zahlwegen.\n<\/p>\n<br>\n<p>\nIn der Praxis heisst das: Vor Ort spielen Sie komfortabel in CHF oder EUR, während grössere digitale Transaktionen über Swiss4Win laufen; für Bargeldbezug und Währungswechsel bieten der Bahnhof und die zentralen Wechselstuben verlässliche Öffnungszeiten und gute Erreichbarkeit.\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\n\nCasinò Lugano: Besuchsregeln, Dresscode und Anreise\n<\/h3>\n\n<p>\nIm Casinò Lugano sorgen klare Besuchsregeln für ein stilvolles Ambiente vom Empfang bis zur Terrasse. Der Zutritt ist ausschliesslich Erwachsenen mit gültigem Ausweis vorbehalten. Der Dresscode ist smart casual: Ein Sakko oder eine Krawatte ist nicht Pflicht, sportliche oder strandnahe Kleidung ist jedoch nicht erlaubt. Das Rauchen in geschlossenen Räumen ist gesetzlich untersagt; dafür gibt es ausgewiesene Raucherbereiche. Tiere sind nicht zugelassen. Die Live‑Tische starten am Nachmittag, was bei der Abendplanung hilfreich ist. Für Autofahrer stehen Valet‑Parking und eine bequeme Parklogistik zur Verfügung; zudem verbindet ein Shuttle nahe Parkhäuser und Hotels mit dem Casino. Ab Bahnhof Lugano ist die Anreise zu Fuss entlang der Seepromenade oder kurz per Bus bis Piazza Manzoni möglich. Prüfen Sie vorab die aktuellen Öffnungszeiten und Events auf der offiziellen Website. So wird der Besuch sowohl für Einheimische als auch für internationale Gäste planbar und angenehm.\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nDresscode\n<\/h4>\n\n <ul>\n            <li>• \nSmart casual: gepflegte Kleidung; Sakko\/Krawatte nicht erforderlich; empfohlen sind Hemd, lange Hosen und geschlossene Schuhe.\n<\/li>\n            <li>• \nNicht erlaubt sind ärmellose Shirts, Bade\/Strand‑Shorts und Flip‑Flops; Ziel ist ein einheitlich elegantes Gesamtbild.\n<\/li>\n \n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nEinlassbedingungen\n\n\n<\/h4>\n\n <ul>\n            <li>• \nZutritt strikt 18+ gegen Vorlage eines gültigen Passes\/ID; Identitätskontrolle am Empfang.\n<\/li>\n            <li>• \nDer Spielsaal ist täglich bis spät geöffnet; Tische starten ab 14:00.\n<\/li>\n            <li>• \nTiere sind im Casino nicht erlaubt.\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nVerbote\n\n\n<\/h4>\n\n <ul>\n            <li>• \nMinderjährige und Gäste ohne gültiges Ausweisdokument erhalten keinen Zutritt. \n<\/li>\n            <li>• \nUnangemessene Kleidung (Sport\/Strand) ist nicht gestattet; die Entscheidung liegt beim Einlass. \n<\/li>\n            <li>• \nRauchen nur in gekennzeichneten Zonen; ansonsten gilt Rauchverbot.\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nParkieren & Anreise\n\n\n<\/h4>\n\n <ul>\n            <li>• \nVor Ort: Valet‑Parking und Gästeparkplätze; zusätzliche Parkhäuser Piazza Castello, Balestra und Campo Marzio; hauseigener Shuttle zwischen Parkplätzen\/Hotels und Casino. \n<\/li>\n            <li>• \nAb Bahnhof Lugano per Bus Nr. 4 bis Piazza Manzoni (kurze Fahrt) oder zu Fuss entlang des Sees in rund 10–15 Minuten.\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nTreueprogramm des Casinò Lugano & Swiss4Win: Vorteile, Registrierung, Stufen & Boni\n<\/h3>\n\n<p>\nDas Treueprogramm von Casinò Lugano hat zwei Säulen: die Lugano Class Card für den Besuch vor Ort und den Swiss4Win Loyalty Club als digitale Erweiterung mit Saison‑Stufen, Prize Wheels und Bargeldpreisen. \nMit der Lugano Class profitieren Gäste von Eintritt ohne erneute Ausweiskontrolle, Gratis‑Softdrinks & Kaffee, kostenloser Garderobe sowie exklusiven Punkten\/Initiativen für Karteninhaber. \nOnline bietet Swiss4Win (ESBK‑Lizenz) die aktuelle Season 4: Punkte werden auf Slots gesammelt, VIP Prize Wheels werden freigeschaltet und Echtgeldpreise bis CHF 150 sind möglich; zusätzlich gibt es saisonale Extras und Gewinnspiele. \nDas Welcome Pack umfasst bis zu CHF 2’000, bis zu 350 Free Spins und 15 Golden Chips für Live‑Tische; als No‑deposit gibt es bis zu 150 Free Spins nach erfolgreicher Verifizierung. \nVor Ort erleichtert die Karte den Casino‑Besuch, online sorgt der Loyalty Club für fortlaufende Belohnungen — zusammen entsteht ein nahtloses On\/Offline‑Erlebnis mit klaren Regeln und regelmässigen Aktionen. \nDie Struktur der Aktionen wird saisonal angepasst; die jeweils gültigen Bedingungen finden Sie auf den Seiten Servizi (Casino) und Bonus\/Loyalty (Swiss4Win). \nSo erhalten Stammgäste wie Gelegenheitsspieler planbar Vorteile, von Gratis‑Getränken im Haus bis zu Free‑Spins und Cash Rewards online.\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRegistrierungsbedingungen (offline & online)\n\n\n<\/h4>\n\n <ul>\n            <li>• \nLugano Class (Casino): Karte am Empfang\/Infopoint; Vorteile: Eintritt ohne ID, Softdrinks\/Kaffee gratis, kostenlose Garderobe, Teilnahme an Punkte‑Initiativen für Karteninhaber. \n<\/li>\n            <li>• \nSwiss4Win (online): Kontoerstellung und Verifizierung (ESBK‑lizenzierte Plattform); danach No‑deposit Paket mit bis zu 150 Free Spins verfügbar. \n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStatusstufen und wie man sie erreicht (Swiss4Win)\n\n\n<\/h4>\n\n <ul>\n            <li>• \nSeason‑Modell «Season 4»: Punkte durch Slot‑Einsätze; Freischaltung von VIP Prize Wheels und Bargeldpreisen bis CHF 150; der Status steigt mit aktivem Spiel und gesammelten Punkten. \n<\/li>\n            <li>• \nBeispielhafte VIP‑Struktur: mehrere Stufen (von Basis bis Premium), die mit höheren Multiplikatoren und Vorteilen verbunden sind; Details werden in den VIP\/Loyalty‑Seiten publiziert (z. B. Bronze\/Silber\/Gold mit steigenden Punkte‑Raten).\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAlle verfügbaren Boni & Vorteile\n\n\n<\/h4>\n\n <ul>\n            <li>• \nWelcome Pack Swiss4Win: bis CHF 2’000 + bis 350 Free Spins + 15 Golden Chips (Live‑Casino); genaue Bedingungen je Deposit‑Schritt. \n<\/li>\n            <li>• \nNo‑deposit nach Verifizierung: bis 150 Free Spins auf ausgewählten Slots; Gewinne unterliegen den Promo‑Bedingungen. \n<\/li>\n            <li>• \nLoyalty Club Rewards: VIP Prize Wheels, Echtgeldpreise bis CHF 150, saisonale Verlosungen\/Extras.\n<\/li>\n            <li>• \nLugano Class Card vor Ort: Eintritt ohne ID, Gratis‑Getränke\/Garderobe, Teilnahme an Punkte‑Initiativen für Karteninhaber. \n<\/li>\n\n        <\/ul><br>\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Softwareanbieter"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Unterhaltung und Gaming im Casinò Lugano",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBoni, Gewinne & saisonale Specials im Casinò Lugano & bei Swiss4Win\n<\/h3>\n\n<p>\nIm Casinò Lugano stehen grosse Jackpots und Event‑Abende im Fokus: vor Ort läuft einer der grössten Slot‑Parks des Landes, und in der Jackpot‑Linie ist der Swiss Jackpot als progressiver Gewinn enthalten. \nAuf der offiziellen Seite erscheinen Live‑Jackpot‑Counter mit aktuellen Summen, die häufig sechsstellig und teils im siebenstelligen Bereich liegen. \nOnline erweitert Swiss4Win das Angebot um tägliche Promotions, «Game of the Week», Missionen und Turniere sowie Instant Withdrawals für schnelle Auszahlungen. \nFür Neuspieler gibt es ein Welcome Pack bis CHF 2’000 inkl. Free Spins und Golden Chips; nach Verifizierung sind bis zu 150 Free Spins ohne Einzahlung verfügbar. \nDie Winners‑Feed von Swiss4Win zeigt konkrete Echtgeld‑Gewinne: etwa CHF 22’560 (Sun of Fortune), CHF 12’760 (Book of Ra Magic), CHF 12’378 (Sweet Bonanza 1000) und weitere. \nVor Ort setzen Capodanno (Silvestergala), Mystery Night am Wochenende, Burlesque und Live‑Shows kulturelle Akzente und flankieren die Spielaktionen. \nDas Zusammenspiel aus On‑Site‑Jackpots und Online‑Promos sorgt dafür, dass sich Besuche und Spielphasen flexibel rund um Saisonhighlights planen lassen.\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nKonkrete Boni & Specials\n<\/h4>\n\n <ul>\n            <li>• \nWelcome Pack (online, Swiss4Win)\n— Bis CHF 2’000 + bis 350 Free Spins + 15 Golden Chips für das Live‑Casino; stufenweise pro Einzahlung, Details (Laufzeit\/Wagering\/eligible Games) im Bonus‑Bereich.\n<\/li>\n            <li>• \nNo‑deposit für verifizierte Konten\n— Bis 150 Free Spins nach erfolgreicher Verifizierung; Gewinne unterliegen den jeweiligen Promo‑Bedingungen.\n<\/li>\n            <li>• \nTägliche\/Wöchentliche Promotions bei Swiss4Win\n— Daily Free Spins, Weekly Missions, Weekly Tournaments, Game of the Week; die Promo‑Übersicht wird saisonal aktualisiert. [grandcasino-bern.ch]\n<\/li>\n            <li>• \nInstant Withdrawals\n— Sofortauszahlungen von Gewinnen, sofern die üblichen Konto‑Checks erfüllt sind.\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nJackpots & reale Gewinne\n<\/h4>\n\n <ul>\n            <li>• \nSwiss Jackpot (On‑Site)\n— Progressiver Jackpot im Netzwerk; verfügbar auf ausgewählten Slots, aktuelle Summen sichtbar am Counter.\n<\/li>\n            <li>• \nOnline‑Gewinne (Swiss4Win‑Winners‑Feed)\n— CHF 22’560 (Sun of Fortune), CHF 12’760 (Book of Ra Magic), CHF 12’378 (Sweet Bonanza 1000), CHF 11’825 (Sugar Rush 1000).\n<\/li>\n            <li>• \nJackpot‑Counter im Casino\n— Auf der Website sind steigende Jackpots ersichtlich; Werte gehen oft über mehrere hunderttausend und können millionenhoch sein.\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nSaisonale & thematische Events\n<\/h4>\n\n <ul>\n            <li>• \nCapodanno (Silvester)\n— Gala‑Abend mit Live‑Programm und thematischen Spielaktionen; Termine in den Casino‑News.\n<\/li>\n            <li>• \nMystery Night (Wochenende)\n— Event‑Serie mit erhöhten Spielaktionen und Sonderverlosungen; Kalender im Bereich Events\/News.\n<\/li>\n            <li>• \nLive‑Shows, Burlesque & Dinner‑Specials\n— Bühnenevents und Kulinarik‑Formate mit saisonalen Schwerpunkten.\n<\/li>\n\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nSpiele im Casinò Lugano: Klassiker, Raritäten und neue Orient‑Games\n<\/h3>\n\n<p>\nIm Casinò Lugano finden Sie ein breites Live‑Angebot über mehrere Ebenen – von Französischem und Amerikanischem Roulette bis zu Chemin de Fer und Ultimate Texas Hold’em. Der Hauptsaal für Tischspiele (Boule) liegt auf Level 2 und startet täglich am Nachmittag, ideal für den Abend.  Gespielt wird mit Jetons in CHF oder EUR, was die Anreise aus dem Ausland erleichtert.  Bei den Karten dominiert Blackjack mit dem progressiven Blazing 777‑Jackpot, daneben Ultimate Texas Hold’em; für Punto Banco gibt es einen eigenen Bereich, und Traditionalisten freuen sich über Chemin de Fer.  Als Ergänzung im Live‑Gaming bietet das Haus die neue Pai Lunliu im «Oriental Room».  Auf den Slot‑Etagen erwarten Sie über 445 Automaten und Jackpot‑Linien; ein Teil ist als Raucherbereich reserviert, und der Slot‑Park zählt zu den grössten in der Schweiz.  Für Pokerfans gibt es Poker‑Nights sowie das bankbasierte Ultimate Texas Hold’em; Event‑Termine stehen auf der offiziellen Website.  Insgesamt kombiniert das Haus europäische Klassiker mit Nischen‑Disziplinen und sorgt für einen eleganten Spielfluss zwischen den Etagen. \n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTischspiele\n<\/h4>\n\n <ul>\n            <li>• \nRoulette (American & French): ikonisch und schnell; Spieltische im Boule‑Saal auf Level 2. \n<\/li>\n            <li>• \nBlackjack + Blazing 777: klassisches «21» mit zusätzlichem Blazing 777‑Jackpot für spezielle 7‑Kombinationen.\n<\/li>\n            <li>• \nUltimate Texas Hold’em: Pokern gegen das Haus mit taktischen Einsatz‑Phasen und Bonus‑Wetten. \n<\/li>\n            <li>• \nPunto Banco (Baccarat): hohes Tempo, Wetten auf Player\/Bank\/Tie; der Casinò Lugano hält einen separaten Bereich bereit.\n<\/li>\n\t    <li>• \nChemin de Fer: seltene, elegante Baccarat‑Variante, bei der Spieler reihum den Bankier geben.\n<\/li>\n\t    <li>• \nPai Lunliu: neue asiatische Disziplin im «Oriental Room» als Teil des Live‑Angebots. \n<\/li>\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nSlots & Jackpots\n<\/h4>\n\n <ul>\n            <li>• \nSlot‑Park (445+): von klassischen Walzen bis zu modernen Video‑Slots; einer der grössten in der Schweiz; separater Raucherbereich. \n<\/li>\n            <li>• \nJackpot‑Linien (u. a. Swiss Jackpot): progressive Gewinne auf ausgewählten Geräten; aktuelle Beträge werden live angezeigt. \n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimale und maximale Einsätze im Casinò Lugano\n<\/h3>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#B63132; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Spiel<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Mindesteinsatz<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Höchsteinsatz<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">CHF 0.01<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">CHF 100<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Elektronisches Roulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">CHF 1<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">am Tisch ausgewiesen<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette (live)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">CHF 2.5–5 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">am Tisch ausgewiesen<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack (live)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">≈ CHF 10<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> am Tisch ausgewiesen<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Punto Banco (Privé)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">am Tisch ausgewiesen<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">am Tisch ausgewiesen<\/td>\n                <\/tr>\n              <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Französisches Roulette (live)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">am Tisch ausgewiesen<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">am Tisch ausgewiesen<\/td>\n                <\/tr>\n             <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Ultimate Texas Hold’em (gegen das Haus)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">am Tisch ausgewiesen<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">am Tisch ausgewiesen<\/td>\n                <\/tr>\n             <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Chemin de Fer<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">am Tisch ausgewiesen<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">am Tisch ausgewiesen<\/td>\n                <\/tr>\n            <\/tbody>\n        <\/table><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nHinweise\n<\/h4>\n\n <ul>\n            <li>• \nElektronisches Roulette: min CHF 1; bei gekoppelten Live‑Spins kann der Live‑Tisch ab CHF 5 starten. Bitte stets die Tafel am Gerät\/Tisch prüfen. \n<\/li>\n            <li>• \nSlots: CHF 0.01–100 laut Branchenverzeichnis; einzelne Geräte können abweichen.\n<\/li>\n            <li>• \nLive‑Tische: Limits unterscheiden sich zwischen Saal Boule und High‑Limit‑Zonen; massgeblich ist die Min–Max‑Tafel am jeweiligen Tisch.\n<\/li>\n\n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEvents, Shows und Nightlife im Casinò Lugano\n<\/h3>\n\n<p>\nIm Casinò Lugano gehören Events und Unterhaltung fest zum Haus: Neben Spieltischen und Slots bietet der Veranstalter einen regelmässigen Abend‑Kalender mit Bühnen‑Shows, Burlesque, Gala‑Dinners, Themenabenden und spielbezogenen Promotions. Die offizielle News‑ und Kalender‑Rubrik veröffentlicht kontinuierlich Ankündigungen — von Capodanno an Silvester bis hin zu Benefiz‑ und Image‑Events — sodass Gäste ihren Abend zielgenau planen können.\n<\/p>\n<br>\n<p>\nFür das Nachtleben sorgen Lounge‑Bar und Nightclub, die die Gaming‑Etagen stilvoll ergänzen: So entsteht der «komplette Abend» — Aperitif, Live‑Game, Bühne und Tanzfloor unter einem Dach. Internationale Betreiberprofile beschreiben das Haus ausdrücklich mit nightclub + lounge bar, was die clubbige Komponente des Casinos unterstreicht.\n<\/p>\n<br>\n<p>\nAls Location für private und Corporate Formate dient der Hall‑In Event Space: ein modern gebrandeter Raum für glamouröse Events, Private Parties, Team‑Building und Gala‑Abende, der durch sein Design und die intime Atmosphäre punktet. Die separate Infrastruktur erlaubt Einlass‑Logik und Setup unabhängig vom Hauptsaal.\n<\/p>\n<br>\n<p>\nMit dem Spielprogramm verknüpft sind Turnier‑ und Themen‑Tage: über das Jahr hinweg kündigt das Casino Wettbewerbe in Chemin de Fer, Blackjack und American Roulette an; die konkreten Termine und Bedingungen stehen in FAQ\/Kalender und sollten kurz vor dem Besuch geprüft werden. Parallel informiert die Website laufend über Bühnenformate (Burlesque, Live‑Acts, Gala‑Dinners) und saisonale Specials.\n<\/p>\n<br>\n<p>\nIn Summe bildet die Kombination aus Event‑Kalender, Nightclub\/Lounge und Hall‑In ein verlässliches Raster für regelmässige Unterhaltung: Wochenenden und Festzeiten orchestrieren den «grossen Abend» aus Spiel, Show und Tanz — ein urbaner Treffpunkt direkt an der Seepromenade.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAlle Unterhaltungsformate\n<\/h4>\n\n <ul>\n            <li>• \nNightclub \/ Lounge‑Bar — Tanz, Musik\/DJ, Cocktails; funktioniert als Fortsetzung der Gaming‑Etagen und der Terrasse.\n<\/li>\n            <li>• \nBühnen‑Shows & Burlesque — regelmässige Live‑Acts, typischerweise an Wochenenden und Feiertagen; Ankündigungen im Kalender\/News.\n<\/li>\n            <li>• \nGala‑Dinners & Themenabende — kulinarische Inszenierungen mit passender Spiel‑Promo; Details in den Event‑Ankündigungen.\n<\/li>\n            <li>• \nCapodanno (Silvester) — Sonderprogramm mit Gala‑Elementen, Live‑Musik und festlicher Promo‑Struktur.\n<\/li>\n\t    <li>• \nHall‑In Event Space — separate Design‑Location für Private Parties, Corporate‑Events und Gala‑Abende.\n<\/li>\n\t    <li>• \nGaming‑Turniere (Chemin de Fer \/ Blackjack \/ American Roulette) — werden saisonal ausgerufen; Termine und Regeln in FAQ\/Kalender.\n<\/li>\n\t    <li>• \nBenefiz‑ und Image‑Aktionen — spezielle Auftritte (z. B. «Spiderman dei Bambini») und lokale Engagements, dokumentiert in den News.\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBars, Elementi Restaurant und Hotels: Ihr Aufenthalt im Casinò Lugano\n<\/h3>\n\n<p>\nIm Casinò Lugano dreht sich der Abend um die Seepromenade und eine sorgfältig kuratierte Gastronomie: Auf den Etagen befinden sich mehrere Bars, es gibt einen Lounge‑\/Nightclub, und im Gebäude selbst liegt das Restaurant Elementi mit Fine‑Dining‑Anspruch. Die Terrasse mit Seeblick rundet den Besuch ab — Aperitif zwischen zwei Spielsessions, kombiniert mit Dinner und Live‑Atmosphäre «unter einem Dach».\n<\/p>\n<br>\n<p>\nDie Club‑Komponente und die Bars sind die natürliche Verlängerung der Gaming‑Etagen: Sie schaffen nächtliche Dynamik rund um Shows und Themenabende und verstärken das Ambiente. Externe Betreiberprofile heben die Kombination lounge bar + nightclub hervor, während die offiziellen Seiten die moderne House‑Konzeption mit Fokus auf Service und Sicherheit beschreiben — ideal für abendliche Programme.\n<\/p>\n<br>\n<p>\nFür Gäste mit Übernachtung empfiehlt das Casino Top‑Hotels (4–5 Sterne) in Lugano und stellt eine bequeme Logistik bereit: Valet‑Parking vor Ort sowie Shuttle‑Service zwischen Hauptparkhäusern und Hotels. So bleibt der Abend entspannt und planbar — Dinner im Elementi, Aperitif an der Bar, anschliessend Spiel, ohne sich um das Parkieren kümmern zu müssen.\n<\/p>\n<br>\n<p>\nFür private Partys, Corporate‑Events und Gala‑Abende dient der erneuerte Hall‑In Event Space als separate Design‑Location im Haus. Die Lage nahe Zentrum und Seepromenade macht die Anreise intuitiv; offizielle Seiten bieten eine klare Übersicht zu Zufahrt und Parkierung.\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAlle Relax‑Spots\n<\/h4>\n\n <ul>\n            <li>• \nElementi Restaurant — kreatives Fine Dining im Casino‑Gebäude; ideal vor\/nach dem Spiel.\n<\/li>\n            <li>• \nLounge Bar \/ Nightclub — Musik, Cocktails und Tanz; die clubbige Fortsetzung des Gaming‑Abends.\n<\/li>\n            <li>• \nSeeterrasse — Aperitif mit Panorama; entspannte Pause zwischen Slots\/Tischen.\n<\/li>\n            <li>• \nBars auf den Etagen — Klassiker und Signature‑Drinks; kurze Wege zwischen den Sälen.\n<\/li>\n\t    <li>• \nHall‑In Event Space — separate Location für Private Parties, Team‑Building und Gala‑Abende.\n<\/li>\n\t    <li>• \nValet‑Parking & Shuttle — Parkservice und Transfer zwischen Parkhäusern\/Hotels und Casino.\n<\/li>\n\t    <li>• \nEmpfohlene Hotels (4–5)* — kuratiertes Hotel‑Set in Laufweite; Empfehlung über den Casino‑Service.\n<\/li>\n        <\/ul><br>\n\n\n\n"
+            }
+        },
+        "faq": {
+            "title": "FAQ",
+            "items": [
+                {
+                    "title": "Wie funktioniert die Spiel‑Selbstsperre und wo gilt sie?",
+                    "answer": "Eine Selbstsperre lässt sich über Responsible Gaming im Casinò Lugano oder online bei Swiss4Win beantragen; verifizierte Accounts können die Sperre direkt auslösen oder via Formular\/ID einreichen."
+                },
+                {
+                    "title": "Werden Gewinne in der Schweiz besteuert (online\/offline)?",
+                    "answer": "Gewinne aus schweizerischen landbasierten Casinos sind von Einkommens‑ und Verrechnungssteuer befreit, sofern keine selbständige Erwerbstätigkeit vorliegt. \nFür Online‑Casino gilt ein Freibetrag von CHF 1’000’000 pro Jahr; Beträge darüber sind einkommens‑ und verrechnungssteuerpflichtig."
+                },
+                {
+                    "title": "Wie schnell erfolgen Online‑Auszahlungen? Gibt es Instant‑Withdrawals?",
+                    "answer": "Swiss4Win bietet Instant Payment: die Überweisung erfolgt innerhalb von Minuten nach Freigabe, der Service ist 24\/7 verfügbar und kostenfrei. \nUnmittelbare Gutschrift ist typischerweise zwischen CHF 50–1’500 möglich; höhere Beträge unterliegen Zusatzprüfungen."
+                },
+                {
+                    "title": "In welcher Währung spiele ich – und wo tausche ich Jetons?",
+                    "answer": "An den meisten Tischen werden CHF\/EUR‑Jetons genutzt; beim Poker sind Jetons nur in CHF vorgesehen. \nDie Umwechslung von Jetons in Bargeld erfolgt an der Kasse gemäss Spielregeln."
+                },
+                {
+                    "title": "Wie sind die Öffnungszeiten des Casinos und die Startzeiten der Tische?",
+                    "answer": "Das Haus ist täglich geöffnet: So–Do 12:00–04:00, Fr–Sa 12:00–05:00; Tische starten ab 14:00."
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1038",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Casinò Lugano"
+        }
+    },
+    "langs": [
+        {
+            "code": "de-CH",
+            "name": "Немецкий",
+            "isDefault": true
+        }
+    ]
+}

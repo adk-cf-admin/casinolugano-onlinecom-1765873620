@@ -1,0 +1,19 @@
+{
+  "name": "Casinò Lugano",
+  "short_name": "Casinò Lugano",
+  "theme_color": "",
+  "background_color": "#0A0A0A",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1765807618-progetto-senza-titolo-47-300x300.ico",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
